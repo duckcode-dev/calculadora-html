@@ -52,7 +52,7 @@ function calculate() {
 }
 
 function clearDisplay() {
-  currentInput = '';
+  currentInput = '0';
   previousInput = '';
   operation = null;
   updateDisplay();
